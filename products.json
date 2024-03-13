@@ -1,0 +1,50 @@
+[
+    {
+       "image": "images/img1.jpg",
+       "title": "Wanderlust Adventures",
+       "description": "Shares travel tips, destination guides and personal stories"
+       
+    },
+    {
+       "image": "images/img2.jpg",
+       "title": "Gastronomic Globe",
+       "description": "A journey through recipes and restaurant reviews."
+   
+    },
+    {
+       "image": "images/img8.jpg",
+       "title": "Chic Style Diaries",
+       "description": "Fashion inspiration, trends, and styling tips"
+       
+    },
+    {
+       "image": "images/img4.jpg",
+       "title": "Money Matters Maven",
+       "description": "Practical advice on budgeting, saving, investing."
+      
+    },
+    {
+       "image": "images/img5.jpg",
+       "title": "Fit Life Chronicles",
+       "description": "Workout tips, nutrition tips & motivational content"
+       
+    },
+    {
+       "image": "images/img6.jpg",
+       "title": "Tech Byte Insights",
+       "description": "Latest technology news, and how-to guide for entusiatics."
+       
+    },
+    {
+      "image": "images/img7.jpeg",
+      "title": "Product title",
+      "description": "Lorem ipsum dolor sit amet consectetur."
+      
+   },
+   {
+      "image": "images/img8.jpg",
+      "title": "Product title",
+      "description": "Lorem ipsum dolor sit amet consectetur."
+      
+   }
+ ]
